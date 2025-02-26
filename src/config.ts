@@ -6,7 +6,7 @@ export let PROXY_CODE_SECRET = 'Easy-Reverse-Proxy'; // 代理码密钥
 // 代理
 export let PROXIES: Proxy[] = [
   {
-	domain:"www.example.com",
+	domain:"easy-reverse-proxy-pk2qrn7a9-163paonius-projects.vercel.app/",
 	url:"https://www.google.com"
 }
 ];
